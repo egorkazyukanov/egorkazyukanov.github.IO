@@ -1,6 +1,6 @@
 # egorkazyukanov.github.IO
 <p> Лабораторная работа №1</p>
-<p>Модель IDEF0:</p>
+Модель IDEF0:<br>
 ![none](https://github.com/egorkazyukanov/egorkazyukanov.github.IO/blob/master/model%20(1).png)
 <p>Диаграмма классов:</p>
 ![none](https://github.com/egorkazyukanov/egorkazyukanov.github.IO/blob/master/PP2nJiCm68Jd-Yb-TGA9Ds0fvGNOcAt4eb7T6Dcf611I2YEC20OO61bJa558rV0AvpVYf2oHAikoxx-xJx9deTA-Mg-i2ikYlDPUhoIpEWIvLPEvpfPNtgtB_DnPv-LoKLH6JSwyTpV3P6uPOT3vtFZnw4uDb2a-4B7btgD7DnKTv89imIlr3dswJu-8akhqW0wjmYTQNffKOq_dLzA6rOXlnhz0wqJmHls7bjMd0nk.png)
