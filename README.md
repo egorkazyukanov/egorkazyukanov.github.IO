@@ -1,5 +1,5 @@
 # egorkazyukanov.github.IO
-<p.fz2 {font-size:1.5em;}> Лабораторная работа №1</p>
+<p> Лабораторная работа №1</p>
 <p>Модель IDEF0:</p>
 ![none](https://github.com/egorkazyukanov/egorkazyukanov.github.IO/blob/master/model%20(1).png)
 <p>Диаграмма классов:</p>
