@@ -1,5 +1,5 @@
 # egorkazyukanov.github.IO
-Лабораторная работа №1
+Лабораторная работа №1<br>
 Модель IDEF0:
 ![none](https://github.com/egorkazyukanov/egorkazyukanov.github.IO/blob/master/model%20(1).png)
 Диаграмма классов:
