@@ -9,5 +9,5 @@
 ## Лабораторная работа №2<br>
 Модель "Plan-Do-Check":<br>
 ![none](https://github.com/egorkazyukanov/egorkazyukanov.github.IO/blob/master/IDEF0.png)<br>
-Декомпозиция блока Do в DFD:<br>
+Декомпозиция блока "Do" в DFD:<br>
 ![none](https://github.com/egorkazyukanov/egorkazyukanov.github.IO/blob/master/DFD1.png)<br>
