@@ -1,0 +1,34 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Window as "Экранная форма"
+
+class AddComponent as "Добавить\nкомплектующую"
+class DeleteComponent as "Удалить\nкомплектующую"
+class AddProduct as "Добавить\nпродукт"
+class DeleteProduct as "Удалить\nпродукт"
+class Kit as "Комплектование\nпродукта"
+class Supplier as "Добавить/удалить\nпоставщика"
+class Customer as "Добавить/удалить\nзаказчика"
+class Production as "Ввести в\nпроизводство"
+
+Entity <|-- Window 
+
+Window <|-- AddComponent
+Window <|-- DeleteComponent
+Window <|-- AddProduct
+Window <|-- DeleteProduct
+Window <|-- Kit
+Window <|-- Supplier
+Window <|-- Customer
+Window <|-- Production
+
+hide members
+hide circle
+hide methods
+@enduml
